@@ -1,35 +1,29 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![logo UNAHUR](UNAHUR.png)
 
-Bienvenidxs a
-# Programación con objetos I
+# Franco Corrales
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Hola, me llamo **Franco** y este es mi tercer cuatrimestre en la carrera diseñador de videojuegos.
+En 2019 curse **Ingenieria electrica** hasta el 2020 que vino la pandemia, donde no pude seguir estudiando.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+En 2022 consegui un trabajo en una empresa de seguridad privada en donde trabaje por casi 1 año colocando camaras y haciendo trabajo de redes. Como las condiciones de trabajo no eran buenas y no podia retomar los estudios me empeñe en conseguir algo en donde me permitieran seguir estudiando.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
+Me incribi en la carrera de programacion de videojuegos en 2023 ya que me gusta mucho el tema de los videojuegos y crearlos es algo que me gusta tanto como jugarlos.  
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
+A principios del 2023 consegui trabajo en la Comision Nacional De Energia Atomica (CNEA) como Tecnico Electronico donde las condiciones laborales son mil veces mejores y en donde me siento muy a gusto trabajando. 
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
+Siempre me gusto la computacion y los videojuegos aunque nunca habia indagado muy profundo, pero con el paso del tiempo y gracias a la carrera me di cuenta que me encanta, y estoy bastante seguro que esto es lo que quiero hacer. Me encanta pensar cada proyecto como un nuevo reto y usar la creatividad para lograr el mejor resultado posible.
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+
+El cuatrimestre anterior hice un curso sobre Inteligencia artificial, y me interesa bastante. Quiza en cuanto termine esta carrera podria meterme a la de IA, pero bueno, eso se vera
+
+
+## Mis gustos
+
+- Desde chico que me encantan los videojuegos. Queria crear mi propio juego, por lo que me empeñe en aprender a diseñar niveles hasta que me inscribi en la universidad, aprendi a hacer animaciones y a editar pixel art (no muy comlicados). Gracias a todo lo que aprendi entendi cuanto le costaba a las desarrolladoras crear un solo juego. 
+
+- Pero igualmente descubri que me encanta diseñar videojuegos y claro, jugarlos
+
+- Armar computadoras es algo que me gusta desde hace mucho tiempo y no habia tenido la oportunidad de armar una, hasta que me finalmente pude armar mi pc en el 2019
+
+- Mi proximo objetivo es poder mudarme con mi pareja y poder seguir creciendo tanto como programador como diseñador de videojuegos.
