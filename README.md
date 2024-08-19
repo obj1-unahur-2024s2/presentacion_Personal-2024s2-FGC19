@@ -1,4 +1,4 @@
-![logo UNAHUR](UNAHUR.png)
+![logo UNAHUR](./assets/UNAHUR.png )
 
 # Franco Corrales
 
